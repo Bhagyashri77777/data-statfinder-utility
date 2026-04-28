@@ -1,15 +1,14 @@
-# 📊 StatFinder: Data Math Utility 📊
+# 📊 StatFinder: Data Math Utility
 
-Welcome to our Data Science math utility! 🚀
-This is a smart Python tool built to quickly process raw numbers and calculate essential statistics like Average (Mean), Maximum, and Minimum values for AI datasets.
+A smart, efficient Python-based utility tool built to quickly process raw numbers and calculate essential statistics for datasets. 
 
-**Built for the Culling Games 2026!** 🏆
+### 🚀 Key Features
+* **Core Statistics:** Quickly compute the Average (Mean) of any numerical dataset.
+* **Data Extremes:** Instantly identify and extract Maximum and Minimum values.
+* **AI-Ready:** Streamlined data processing logic designed as a foundational tool for Data Science workflows.
 
-### ⚔️ Team: The Neural Knights ⚔️
-* 👑 **Bhagyashri Gawali** (Captain & Lead Developer) 👩‍💻
-* 🛡️ **Anushka** (Logic Architect)
-* 🛡️ **Payal** (QA & Tester)
-* 🛡️ **Prashant** (Data Researcher)
-* 🛡️ **Sneha** (Data Researcher)
+### 🛠️ Tech Stack
+* Python
 
-Data math made easy! ✨
+---
+**Developed by:** Bhagyashri Yogesh Gawali
